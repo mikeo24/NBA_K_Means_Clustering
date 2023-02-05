@@ -1,7 +1,7 @@
-# NBA_K_Means_Clustering
+## NBA_K_Means_Clustering
 NBA players have become versatile over the years, in this analysis we are going to try to determine who has All-Stars potential based on their stats and analyze which cluster has a bigger impact on winning.
 
-# Pipeline
+## Pipeline
 
 1. Website we got the stats from https://www.basketball-reference.com/leagues/NBA_{}_per_game.html
 2. Data Scraping - Use Selenium to extract the data out of the website above
